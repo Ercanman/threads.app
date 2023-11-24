@@ -37,4 +37,4 @@ export default async function Home() {
   );
 }
 
-//Fortsätt https://youtu.be/O5cmLDVTgAs?t=18208 5:03:30
+//Fortsätt https://youtu.be/O5cmLDVTgAs?t=20670 5:44:30
